@@ -1,8 +1,6 @@
-math
 numpy
 scipy.constants
 matplotlib.pyplot
-warnings
 heterogeneous
 PFC
 pressure
